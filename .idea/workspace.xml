@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57423e0c-f8f7-453d-a7bc-5665e1c2adc8" name="Default Changelist" comment="New test 2">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewLearningTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/newLearningTests/EmptyCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/newLearningTests/IfExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/newLearningTests/ScrollTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/newLearningTests/WebDriverSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/newLearningTests/EmptyCartTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/newLearningTests/IfExist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/newLearningTests/LearningTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/newLearningTests/ScrollTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/newLearningTests/WebDriverSettings.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Dmitriy\AQA\NewLearningTest\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d0f7KOTh7zRAS83ByMrnGhmZ4M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.LearningTests">
+    <configuration name="EmptyCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewLearningTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newLearningTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="newLearningTests" />
+      <option name="MAIN_CLASS_NAME" value="newLearningTests.EmptyCartTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewLearningTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newLearningTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="newLearningTests" />
+      <option name="MAIN_CLASS_NAME" value="newLearningTests.IfExist" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewLearningTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newLearningTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="newLearningTests" />
+      <option name="MAIN_CLASS_NAME" value="newLearningTests.LearningTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewLearningTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newLearningTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="newLearningTests" />
+      <option name="MAIN_CLASS_NAME" value="newLearningTests.ScrollTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LearningTests" />
+        <item itemvalue="JUnit.EmptyCartTest" />
+        <item itemvalue="JUnit.ScrollTest" />
+        <item itemvalue="JUnit.IfExist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57423e0c-f8f7-453d-a7bc-5665e1c2adc8" name="Default Changelist" comment="" />
+      <created>1591566762312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591566762312</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New test 2">
+      <created>1592217563656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592217563657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New test" />
+    <MESSAGE value="New test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="New test 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1592219054282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592219054282" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1591884363224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591884363224" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1591885149436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591885149436" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1591885149436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591885149436" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1591885149436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591885149436" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1591885149436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591885149436" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1592217580761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592217580761" />
+    <state x="65" y="60" key="new project wizard" timestamp="1591696017590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1591696017590" />
+  </component>
+</project>
